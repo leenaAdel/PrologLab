@@ -3,6 +3,7 @@
 male(adel).
 male(elyas).
 male(mishal).
+
 % Female facts
 female(fadela).
 female(leena).
